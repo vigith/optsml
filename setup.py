@@ -13,7 +13,7 @@ from setuptools import find_packages, setup, Command
 
 # Package meta-data.
 NAME = 'optsml'
-DESCRIPTION = 'Machine Learning and Mathematical Functions for Operational Timeseries Data.'
+DESCRIPTION = 'Machine Learning and Mathematical Functions for Operational Time Series Data.'
 URL = 'https://github.com/vigith/optsml'
 EMAILS = 'vigith@gmail.com,'
 AUTHORS = 'Vigith Maurice,'
