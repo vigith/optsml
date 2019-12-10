@@ -15,8 +15,8 @@ from setuptools import find_packages, setup, Command
 NAME = 'optsml'
 DESCRIPTION = 'Machine Learning and Mathematical Functions for Operational Time Series Data.'
 URL = 'https://github.com/vigith/optsml'
-EMAILS = 'vigith@gmail.com,'
-AUTHORS = 'Vigith Maurice,'
+EMAILS = 'avikbasu93@gmail.com, vigith@gmail.com'
+AUTHORS = 'Avik Basu, Vigith Maurice'
 REQUIRES_PYTHON = '>=3.7.0'
 VERSION = '0.1.0'
 
