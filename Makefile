@@ -1,4 +1,4 @@
-all: test
+all: init test
 
 init:
 	pip install pipenv --upgrade
